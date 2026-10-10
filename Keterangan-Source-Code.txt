@@ -1,9 +1,9 @@
-Pengerjaan Soal Nomor 1:
-MetodeLangsungGauss
-MetodeLangsungGaussJordan
-MetodeLangsungDekomposisiLU
-MetodeIteratifJacobi
-MetodeIteratifGaussSeidel
+1. Pengerjaan Soal Nomor 1:
+    MetodeLangsungGauss
+    MetodeLangsungGaussJordan
+    MetodeLangsungDekomposisiLU
+    MetodeIteratifJacobi
+    MetodeIteratifGaussSeidel
 
 2. Pengerjaan Soal Nomor 2: HitungError
 
