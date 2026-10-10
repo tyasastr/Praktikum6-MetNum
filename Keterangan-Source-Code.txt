@@ -1,0 +1,10 @@
+Pengerjaan Soal Nomor 1:
+MetodeLangsungGauss
+MetodeLangsungGaussJordan
+MetodeLangsungDekomposisiLU
+MetodeIteratifJacobi
+MetodeIteratifGaussSeidel
+
+2. Pengerjaan Soal Nomor 2: HitungError
+
+3. Pengerjaan Soal Nomor 3: KomparasiRunningTime
